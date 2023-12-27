@@ -4,28 +4,30 @@ Hotel Booking Website.
 
 Login Page
 
-![image](https://github.com/omshete0550/Reservify/assets/95119784/3af7541e-f836-4bda-bcae-12a472ab86ff)
+![Screenshot 2023-12-27 184640](https://github.com/omshete0550/Reservify/assets/95119784/e7b123ec-d00b-46fe-9e80-3b06e226521d)
 
 Landing Page
 
-![image](https://github.com/omshete0550/Reservify/assets/95119784/477230fe-b538-4ca6-a31f-c1699cb8c46a)
+![Screenshot 2023-12-27 184743](https://github.com/omshete0550/Reservify/assets/95119784/ce814305-46ad-46b9-b49b-03c9407554ce)
 
-![image](https://github.com/omshete0550/Reservify/assets/95119784/2cc2cb73-3db7-4ee3-9407-813e36d6417e)
+![Screenshot 2023-12-27 184821](https://github.com/omshete0550/Reservify/assets/95119784/dc5be3b3-577e-4125-aecf-b6df151e7df7)
 
-![image](https://github.com/omshete0550/Reservify/assets/95119784/8758f43d-f135-4400-83ea-8fc828dd007d)
+![Screenshot 2023-12-27 184834](https://github.com/omshete0550/Reservify/assets/95119784/13511be7-d563-4db5-a5d6-1b50dc2293dc)
 
 Search Functionality
 
-![image](https://github.com/omshete0550/Reservify/assets/95119784/d3f34ab5-d39f-45ef-9126-25fa7f49ee29)
+![Screenshot 2023-12-27 184920](https://github.com/omshete0550/Reservify/assets/95119784/18e6883e-9e33-41d7-9669-1d2660c388b7)
 
-![image](https://github.com/omshete0550/Reservify/assets/95119784/d1950a13-9961-4b75-90ad-b5d3b472a2a4)
+![Screenshot 2023-12-27 184939](https://github.com/omshete0550/Reservify/assets/95119784/7a2fb574-d993-4bdb-8efd-4ad1503c37d3)
 
 After Clicking on See Availability Button
 
-![image](https://github.com/omshete0550/Reservify/assets/95119784/6341e492-be09-4d98-9ed7-b1eb0da375e5)
+![Screenshot 2023-12-27 184956](https://github.com/omshete0550/Reservify/assets/95119784/8d9c161f-f2de-4172-bbe0-1c0d61979af2)
 
 After Clicking on See Reserve Button
 
-![image](https://github.com/omshete0550/Reservify/assets/95119784/35b514a1-8d9a-4ac4-80e2-ab1c6e0692a7)
+![Screenshot 2023-12-27 185024](https://github.com/omshete0550/Reservify/assets/95119784/a5649706-1e69-4b2a-bb8d-3bc28e52b030)
+
+
 
 
